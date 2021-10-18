@@ -16,7 +16,8 @@
 
 ## SOSIAL MEDIA SAYA <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [![Instagram](https://img.shields.io/badge/Instagram-25D366?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/rizkyfauzari)
+* [![Facebook](https://img.shields.io/badge/Facebook-fafafa?style=for-the-badge&logo=Instagram&logoColor=blue)](https://www.facebook.com/muhammad.riz.58)
+* [![Instagram](https://img.shields.io/badge/Instagram-fafafa?style=for-the-badge&logo=Instagram&logoColor=red)](https://www.instagram.com/rizkyfauzari)
 * [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+6289603796522)
 * [![Grup WhatsApp](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](//https://chat.whatsapp.com/KgU27SNOG9Q1kVDC5wHOGb)
 
