@@ -11,16 +11,16 @@ saya adalah seorang pelajar siswa yang gabut
 - 👁️ CSS
 
 ## Contact
-- [@martonlederer](https://www.instagram.com/rizkyfauzari/) on Instagram
-- [Marton#6513](https://api.whatsapp.com/send?phone=6289603796522) on Whatsapp
+- [@rizkyfauzari](https://www.instagram.com/rizkyfauzari/) on Instagram
+- [Rizky](https://api.whatsapp.com/send?phone=6289603796522) on Whatsapp
 
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 🗂️ Highlight Projects
+## 🗂️ Projects
 
 <a href="https://github.com/RizkyFauzari/belum-jadi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="" />
 </a>
