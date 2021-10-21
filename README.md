@@ -10,7 +10,7 @@
 <img src="https://dafunda.com/wp-content/uploads/2019/10/Karakter-Anime-Hacker-Terbaik-Dafunda-Otaku.gif"</img>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RizkyFauzari&theme=light&hide_langs_below=1" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyfauzari&theme=light&hide_langs_below=1" />
 
 
 * [![Facebook](https://img.shields.io/badge/Facebook-1900ff?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/muhammad.riz.58)
