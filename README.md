@@ -1,7 +1,5 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hai nama saya Rizky
 <p align="center">
-<p align='center'><a href="https://www.instagram.com/rizkyfauzari"><img height="200" src="https://github.com/RizkyFauzari/belum-jadi/blob/main/logo.jpg?raw=true"></a>&nbsp;&nbsp;</p>
-</p>
 <br>
 
 
@@ -9,8 +7,7 @@
 </p>
 <p align="center">
 </p>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
-<div align="center">
+<img src="https://dafunda.com/wp-content/uploads/2019/10/Karakter-Anime-Hacker-Terbaik-Dafunda-Otaku.gif"</img>
 
 
 
